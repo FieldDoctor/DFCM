@@ -1,0 +1,2 @@
+Epoch 50/50
+ - 1s - loss: 0.0020 - val_loss: 0.0018

@@ -1,0 +1,10 @@
+
+
+
+0 - time
+1 - way1
+2 - way2
+3 - way3
+4 - way4
+5 - way5
+6 - way6

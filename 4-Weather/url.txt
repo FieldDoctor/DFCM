@@ -1,0 +1,12 @@
+
+
+0 - time
+1 - temperature
+2 - pressure
+3 - humidity
+4 - wind_speed
+5 - PM2.5
+6 - NO2
+7 - CO
+8 - O3
+9 - SO2

@@ -1,0 +1,16 @@
+https://archive.ics.uci.edu/ml/datasets/ISTANBUL+STOCK+EXCHANGE
+
+[1] A two-stage model for time series prediction based on fuzzy cognitive maps and neural networks
+[2] novel Hybrid RBF Neural Networks model as a forecaster, Statistics and Computing.
+
+
+0 - time
+1 - ISE
+2 - ISE.1
+3 - SP
+4 - DAX
+5 - FTSE
+6 - NIKKEI
+7 - BOVESPA
+8 - EU
+9 - EM
